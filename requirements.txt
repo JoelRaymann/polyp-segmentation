@@ -1,0 +1,13 @@
+numpy
+pandas
+opencv-python
+tensorflow==2.1.0
+tensorflow-gpu==2.1.0
+tensorlayer==2.1.0
+albumentations
+pyyaml
+tqdm
+scikit-learn
+scikit-image
+matplotlib
+tifffile

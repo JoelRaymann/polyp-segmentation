@@ -1,0 +1,16 @@
+no_of_epochs: 120
+steps_per_epoch: 0
+learning_rate: 0.0001
+
+train_batch_size: 2
+val_batch_size: 2
+test_batch_size: 2
+
+model_name: "GAR-Net-Experimental"
+dataset_path: "../Dataset/Kvasir-SEG/"
+dataset_family: "Kvasir-Seg"
+
+image_width: 256
+image_height: 256
+initial_width: 270
+initial_height: 270

@@ -1,0 +1,9 @@
+test_batch_size: 4
+
+model_name: "UNet-Dice"
+dataset_path: "../Dataset/Kvasir-SEG/"
+dataset_family: "Kvasir-Seg"
+
+image_width: 256
+image_height: 256
+attn_output: False # toggle this as true if the chosen model has attention mechanisms in it
